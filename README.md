@@ -13,7 +13,7 @@ It outputs results both in the interface and as a **CSV file** for easy analysis
 - **Mozilla Firefox**
 
 ✅ Additional capabilities:
-- Specify **start and end dates** for filtering results  
+- Specify **start and end dates** for filtering results 
 - **Export** history data to CSV files automatically  
 - View results in a **user-friendly Tkinter GUI**  
 - Optionally **recover deleted history (experimental)** using SQLite `.recover`  
